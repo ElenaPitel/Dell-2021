@@ -1,0 +1,12 @@
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.exe
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.deps.json
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.runtimeconfig.json
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.runtimeconfig.dev.json
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.dll
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\bin\Debug\netcoreapp3.1\Phase1Section4.7b.pdb
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.AssemblyInfoInputs.cache
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.AssemblyInfo.cs
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.csproj.CoreCompileInputs.cache
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.dll
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.pdb
+C:\Users\elena_pitel\source\repos\Phase1Section4.7b\Phase1Section4.7b\obj\Debug\netcoreapp3.1\Phase1Section4.7b.genruntimeconfig.cache
