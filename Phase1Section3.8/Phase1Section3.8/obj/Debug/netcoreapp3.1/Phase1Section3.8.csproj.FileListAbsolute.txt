@@ -1,0 +1,13 @@
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.exe
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.deps.json
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.runtimeconfig.json
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.runtimeconfig.dev.json
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.dll
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\bin\Debug\netcoreapp3.1\Phase1Section3.8.pdb
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.csprojAssemblyReference.cache
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.AssemblyInfoInputs.cache
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.AssemblyInfo.cs
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.csproj.CoreCompileInputs.cache
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.dll
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.pdb
+C:\Users\elena_pitel\source\repos\Phase1Section3.8\Phase1Section3.8\obj\Debug\netcoreapp3.1\Phase1Section3.8.genruntimeconfig.cache
